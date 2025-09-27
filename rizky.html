@@ -31,7 +31,7 @@
   <nav class="fixed w-full z-40 top-6 left-0 px-6">
     <div class="max-w-6xl mx-auto flex items-center justify-between">
       <a href="#beranda" class="flex items-center gap-3 glass-btn">
-        <div class="w-9 h-9 rounded-full flex items-center justify-center bg-gradient-to-br from-purple-500 to-cyan-400 text-black font-bold">MI</div>
+        <div class="w-9 h-9 rounded-full flex items-center justify-center bg-gradient-to-br from-purple-500 to-cyan-400 text-black font-bold">TH</div>
         <div class="hidden sm:block text-sm">Taufiq Hidayat</div>
       </a>
       <div class="hidden md:flex items-center gap-4" id="navbar-links">
@@ -57,7 +57,7 @@
         </div>
       </div>
       <div class="flex flex-col items-center md:items-end">
-        <img src="profil.jpg" alt="Foto Profil Maulana Ibrahim" class="w-40 h-40 rounded-full object-cover border-4 border-purple-500 glow floaty" />
+        <img src="profil.jpg" alt="Foto Profil Taufiq Hidayat" class="w-40 h-40 rounded-full object-cover border-4 border-purple-500 glow floaty" />
       </div>
     </section>
 
@@ -68,7 +68,7 @@
         <h2 class="text-2xl font-bold">Tentang Saya</h2>
       </div>
       <div class="frost p-6 rounded-xl reveal">
-        <p class="text-slate-300">Saya seorang mahasiswa aktif Universitas Trunojoyo Madura Fakultas Ekonomi Dan Bisnis Program Studi Akuntansi yang gemar mempelajari dunia bisnis lebiih fokus pada pencatatan, penjurnalan, laporan keuangan, dan sebagainya.</p>
+        <p class="text-slate-300">Saya seorang mahasiswa aktif Universitas Trunojoyo Madura Fakultas Ekonomi Dan Bisnis Program Studi Akuntansi yang gemar mempelajari dunia bisnis lebih fokus pada pencatatan, penjurnalan, laporan keuangan, dan sebagainya.</p>
       </div>
     </section>
 
